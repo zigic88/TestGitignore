@@ -7,4 +7,4 @@ mergeproperties.jar
 # File types
 *.jar
 
-/test/*.html
+/test/ss/*
