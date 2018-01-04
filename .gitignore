@@ -6,5 +6,3 @@ mergeproperties.jar
 
 # File types
 *.jar
-
-/test/ss/*
