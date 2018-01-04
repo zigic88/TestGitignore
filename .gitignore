@@ -1,2 +1,2 @@
 # Compiled source #
-*.jars
+target/*.jars
