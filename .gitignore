@@ -1,3 +1,8 @@
-# Compiled source #
-targets/
+# All files in specific path
+target/
+
+# Specific file
 mergeproperties.jar
+
+# File types
+*.jar
